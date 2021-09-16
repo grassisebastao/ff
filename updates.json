@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{141cc3ad-92e8-45b6-bb9d-9b792762b5a2}": {
+      "updates": [
+        {
+          "version": "1.2",
+          "update_link": "https://raw.githubusercontent.com/grassisebastao/ff/all_in_pdf-1.2-fx.xpi"
+        }
+      ]
+    }
+  }
+}
